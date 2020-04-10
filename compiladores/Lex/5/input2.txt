@@ -1,0 +1,8 @@
+lucas 11/02/1998
+
+pi = 3.14
+
+* varios % passaros
+
+altura >= 1.66
+
